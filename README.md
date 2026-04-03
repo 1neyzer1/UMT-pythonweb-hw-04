@@ -54,4 +54,4 @@ sorted_files/
 ```
 
 ---
-*Домашнє завдання для курсу UMT Python Web.*
+*Домашнє завдання для курсу FullStack веб розробка Python*
